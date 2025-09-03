@@ -1,0 +1,146 @@
+baseURL = 'https://olatomiwa-bifarin.netlify.app/'
+languageCode = 'en-us'
+title = 'Olatomiwa O. Bifarin'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Olatomiwa O. Bifarin"
+description = "AI for Science | Machine Learning & Metabolomics | Postdoctoral Research Fellow at Georgia Tech"
+keywords = ["Olatomiwa Bifarin", "Machine Learning", "AI", "Metabolomics", "Biochemistry", "Research", "Georgia Tech"]
+author = "Olatomiwa O. Bifarin"
+# images = ["<link or path of image for opengraph, twitter-cards>"]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = false
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+[params.homeInfoParams]
+Title = "Olatomiwa O. Bifarin 🧬"
+Content = """
+I'm a Postdoctoral Research Fellow at Georgia Tech's School of Chemistry and Biochemistry. I'm interested in AI for science, machine learning applications in metabolomics, and developing automated pipelines for cancer biomarker discovery.
+
+Until recently, I was a PhD student in Arthur Edison's group at the University of Georgia, where I focused on metabolic phenotyping and machine learning for renal cell carcinoma detection. I have a passion for bridging AI and biochemistry to accelerate scientific discovery.
+
+olatomiwa.bifarin [at] gatech [dot] edu
+"""
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:olatomiwa.bifarin@gatech.edu"
+
+[[params.socialIcons]]
+name = "scholar"
+url = "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/your-username"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/your-profile"
+
+[[params.socialIcons]]
+name = "orcid"
+url = "https://orcid.org/your-orcid"
+
+[params.assets]
+# disableHLJS = true
+# disableFingerprinting = true
+favicon = "<link / abs url>"
+favicon16x16 = "<link / abs url>"
+favicon32x32 = "<link / abs url>"
+apple_touch_icon = "<link / abs url>"
+safari_pinned_tab = "<link / abs url>"
+
+[params.cover]
+hidden = true
+hiddenInList = true
+hiddenInSingle = true
+
+[params.editPost]
+URL = "https://github.com/<path_to_repo>/content"
+Text = "Suggest Changes"
+appendFilePath = true
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+identifier = "home"
+name = "home"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "news"
+name = "news"
+url = "/news/"
+weight = 20
+
+[[menu.main]]
+identifier = "publications"
+name = "publications"
+url = "/publications/"
+weight = 30
+
+[[menu.main]]
+identifier = "talks"
+name = "talks"
+url = "/talks/"
+weight = 40
+
+[[menu.main]]
+identifier = "cv"
+name = "cv"
+url = "/cv/"
+weight = 50
+
+[[menu.main]]
+identifier = "scholar"
+name = "scholar"
+url = "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+weight = 60
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
+codeFences = true
+guessSyntax = true
+lineNos = true
+style = "github"
