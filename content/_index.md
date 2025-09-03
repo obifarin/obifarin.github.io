@@ -2,6 +2,14 @@
 title: "Olatomiwa O. Bifarin"
 ---
 
+# Olatomiwa O. Bifarin 🧬
+
+I'm a Postdoctoral Research Fellow at Georgia Tech's School of Chemistry and Biochemistry. I'm interested in AI for science, machine learning applications in metabolomics, and developing automated pipelines for cancer biomarker discovery.
+
+Until recently, I was a PhD student in Arthur Edison's group at the University of Georgia, where I focused on metabolic phenotyping and machine learning for renal cell carcinoma detection. I have a passion for bridging AI and biochemistry to accelerate scientific discovery.
+
+olatomiwa.bifarin [at] gatech [dot] edu
+
 ## News
 
 **2025-07-07** Completed Georgia Tech President's Postdoctoral Research Fellowship program.
@@ -10,15 +18,11 @@ title: "Olatomiwa O. Bifarin"
 
 **2025-04-01** Keynote presentation with Prof. Facundo Fernandez at the 2025 Annual Meeting of Southern Section of AOAC International: "Machine Learning in 21st Century Analytical Science."
 
-**2025-01-22** Invited talk at Morehouse School of Medicine: "Machine Learning Unveils the Language of Metabolites."
-
 **2025-01-01** New publication: "A Large Language Model-Powered Map of Metabolomics Research" published in *Analytical Chemistry*. [Paper](link) | [Web App](link)
 
 **2024-11-18** Invited talk at Harvard University, Department of Chemistry and Chemical Biology.
 
 **2024-10-01** Presented at the 6th Metabolomics Association of North America Conference in Tampa, Florida: "Mapping The Landscape of Metabolomics Research."
-
-**2024-06-01** Poster and video tour presentation at the 72nd ASMS Conference: "Metabolomics: Mapping Evolution and Trends in the Field with AI."
 
 **2024-04-19** Invited talk at University of Georgia, Institute of Bioinformatics: "Applications of Machine Learning and AI to Metabolomics Research."
 
@@ -40,6 +44,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID) 
 
 A comprehensive analysis of metabolomics research trends using large language models to map the evolution and future directions of the field.
 
+---
+
 **Automated machine learning and explainable AI (AutoML-XAI) for metabolomics: improving cancer diagnostics**
 
 *Olatomiwa O. Bifarin, and Facundo M. Fernández*
@@ -49,6 +55,8 @@ A comprehensive analysis of metabolomics research trends using large language mo
 [Paper](link) | [Preprint](link)
 
 Development of automated machine learning pipelines with explainable AI for enhancing cancer biomarker discovery in metabolomics datasets.
+
+---
 
 **Serum Lipidome Profiling Reveals a Distinct Signature of Ovarian Cancer in Korean Women**
 
@@ -60,6 +68,8 @@ Development of automated machine learning pipelines with explainable AI for enha
 
 Identification of serum lipid biomarkers for ovarian cancer detection using advanced metabolomics and machine learning approaches.
 
+---
+
 **Machine Learning Reveals Lipidome Remodeling Dynamics in a Mouse Model of Ovarian Cancer**
 
 *Olatomiwa O Bifarin‡, Samyukta Sah‡, David A Gaul, Samuel G Moore, Ruihong Chen, Murugesan Palaniappan, Jaeyeon Kim, Martin M Matzuk, Facundo M Fernández*
@@ -70,6 +80,8 @@ Identification of serum lipid biomarkers for ovarian cancer detection using adva
 
 Comprehensive analysis of lipid metabolism changes during ovarian cancer progression using machine learning and multi-platform metabolomics.
 
+---
+
 **Interpretable machine learning with tree-based shapley additive explanations: Application to metabolomics datasets for binary classification**
 
 *Olatomiwa O Bifarin*
@@ -79,6 +91,8 @@ Comprehensive analysis of lipid metabolism changes during ovarian cancer progres
 [Paper](link) | [Preprint](link) | [Video Abstract](link)
 
 Development and validation of interpretable machine learning methods for metabolomics data analysis with focus on clinical applications.
+
+---
 
 **Machine Learning-enabled Renal Cell Carcinoma Status Prediction Using Multi-Platform Urine-based Metabolomics**
 
