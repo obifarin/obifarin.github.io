@@ -78,6 +78,14 @@ favicon32x32 = "<link / abs url>"
 apple_touch_icon = "<link / abs url>"
 safari_pinned_tab = "<link / abs url>"
 
+# Custom styling
+[params.profileMode]
+enabled = false
+
+# Force custom CSS to be included
+[params.customCSS]
+enabled = true
+
 [params.cover]
 hidden = true
 hiddenInList = true

@@ -57,24 +57,6 @@ layout: single
 
 **2022-02-01** Invited talk at the Metabolomics Association of North America (MANA) committee for Software and Data (SoDa) Exchange: "Machine Learning-Enabled Renal Cell Carcinoma Status Prediction Using Multiplatform Urine-Based Metabolomics."
 
-**2021-09-01** Started position as Georgia Tech President's Postdoctoral Research Fellow at the School of Chemistry and Biochemistry.
+**2021-09-01** Started position as Georgia Tech Postdoctoral Research Fellow at the School of Chemistry and Biochemistry.
 
 **2021-08-01** Successfully defended PhD dissertation: "Metabolic Phenotyping Meets Machine Learning: Detecting Renal Cell Carcinoma in Urine" at the University of Georgia.
-
-**2021-06-23** New publication: "Machine Learning-enabled Renal Cell Carcinoma Status Prediction Using Multi-Platform Urine-based Metabolomics" published in *Journal of Proteome Research*. [Paper](link) | [Web App](link)
-
-**2021-01-01** Founded MBB Grant - a personal grant-making, angel-investing styled philanthropic project giving microgrants to innovative young Nigerians with technology, science, or humanities projects. [Website](link)
-
-**2020-12-01** New publication: "Urine-Based Metabolomics, and Machine Learning Reveals Metabolites Associated with Renal Cell Carcinoma Stage" published in *Cancers*. [Paper](link)
-
-**2020-09-01** Poster presentation at the Metabolomics Association of North America Virtual Conference: "Machine Learning Predicts Renal Cell Carcinoma Status from Urine Using Multiplatform Metabolomics."
-
-**2020-09-01** Started volunteer teaching position during COVID-19 pandemic, teaching an introductory class on machine learning to STEM scientists. [Virtual Class](link) | [Recorded lectures](link)
-
-**2020-06-01** Poster presentation at the American Society for Mass Spectrometry (ASMS) Virtual Conference: "Machine Learning Predicts Renal Cell Carcinoma Status from Urine Using Multiplatform Metabolomics."
-
-**2019-11-01** Received Travel Award from The University of Georgia Graduate School for 2019 Metabolomics Association of North America Conference in Atlanta, Georgia.
-
-**2019-10-01** Received Graduate Fellowship: Grimes Family Distinguished Graduate Fellowship in Natural Sciences (for Cancer Research).
-
-**2019-11-01** Poster presentation at the 2019 Metabolomics Association of North America (MANA) Conference in Atlanta, Georgia: "Multiplatform Urine Metabolomics for Renal Cell Carcinoma Prediction."
