@@ -108,7 +108,7 @@ weight = 40
 
 [[menu.main]]
   identifier = "ai-blog"
-  name = "AI blog"
+  name = "ai blog"
   url = "https://theepsilon.substack.com/"
   weight = 50
 
