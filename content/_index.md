@@ -6,16 +6,16 @@ title: "Olatomiwa O. Bifarin"
 
 {{< rawhtml >}}
 <div class="profile-container">
+  <div class="profile-image">
+    <img src="/images/profile.jpg" alt="Olatomiwa O. Bifarin" />
+  </div>
+  
   <div class="profile-text">
     <p>I hold a <a href="https://openscholar.uga.edu/record/4684?ln=en&v=pdf" target="_blank">PhD in Biochemistry and Molecular Biology</a> from the University of Georgia, and I conducted postdoctoral research at Georgia Tech. My research interest spans computational metabolomics, cancer metabolism, applied machine learning (ML), natural language processing (NLP), & AI for Science.</p>
     
     <p>Currently, I am on a self-imposed career break to focus on some self-directed projects on AI engineering. I am also a research affiliate at Georgia Tech.</p>
     
     <p><code>obifarin [at] yahoo [dot] com</code></p>
-  </div>
-  
-  <div class="profile-image">
-    <img src="/images/profile.jpg" alt="Olatomiwa O. Bifarin" />
   </div>
 </div>
 {{< /rawhtml >}}
