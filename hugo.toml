@@ -1,6 +1,6 @@
 baseURL = 'https://olatomiwa-bifarin.netlify.app/'
 languageCode = 'en-us'
-title = 'Olatomiwa O. Bifarin'
+title = 'Olatomiwa Bifarin'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -103,7 +103,7 @@ weight = 30
 [[menu.main]]
 identifier = "cv"
 name = "cv"
-url = "/cv/"
+url = "https://drive.google.com/file/d/19VbbT_tNRkKyz4sgNSMkAorbViDQ7A5m/view?usp=sharing"
 weight = 40
 
 [[menu.main]]

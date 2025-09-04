@@ -2,7 +2,7 @@
 title: "Olatomiwa O. Bifarin"
 ---
 
-# Olatomiwa O. Bifarin 🧬
+# Olatomiwa Bifarin
 
 {{< rawhtml >}}
 <div class="profile-container">
@@ -53,19 +53,21 @@ title: "Olatomiwa O. Bifarin"
 
 ## News
 
-**2025-07-31** Completed Georgia Tech President's Postdoctoral Research Fellowship program.
-
 **2025-04-07** Invited seminar at Catholic University of America, Department of Biology: "Machine Learning Unveils the Language of Metabolites".
 
-**2025-04-01** Keynote presentation with Prof. Facundo Fernandez at the 2025 Annual Meeting of Southern Section of AOAC International in Atlanta, Georgia: "Machine Learning in 21st Century Analytical Science."
+**2025-04-01** Keynote presentation (with Dr. Facundo Fernandez) at the 2025 Annual Meeting of Southern Section of AOAC International in Atlanta, Georgia: "Machine Learning in 21st Century Analytical Science."
 
 **2025-01-22** Talk at Morehouse School of Medicine, Department of Microbiology, Biochemistry, and Immunology: "Machine Learning Unveils the Language of Metabolites."
 
 **2024-11-18** [Talk](https://www.chemistry.harvard.edu/event/olatomiwa-o-bifarin-postdoctoral-fellow-georgia-institute-technology) at Harvard University, Department of Chemistry and Chemical Biology: "Machine Learning Unveils the Language of Metabolites."
 
-[View all news →](/news/)
+{{< rawhtml >}}
+<div style="margin-bottom: 20px;">
+<strong><a href="/news/" style="color: #0066cc; text-decoration: none;">View all news →</a></strong>
+</div>
+{{< /rawhtml >}}
 
-## Selected Publications
+## Publications
 
 {{< rawhtml >}}
 <div style="display: flex; gap: 30px; margin: 30px 0; align-items: flex-start;">
@@ -77,9 +79,9 @@ title: "Olatomiwa O. Bifarin"
     <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Olatomiwa O. Bifarin, Varun S. Yelluru, Aditya Simhadri, Facundo M. Fernández</p>
     <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Analytical Chemistry, 2025</p>
     <div style="margin: 10px 0;">
-      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">Paper</a>
-      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">Preprint</a>
-      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">Web App</a>
+      <a href="https://pubs.acs.org/doi/10.1021/acs.analchem.5c01672" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">📄 Paper</a>
+      <a href="https://www.biorxiv.org/content/10.1101/2025.03.18.643696v1" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">📝 Preprint</a>
+      <a href="https://metascape.streamlit.app/" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">🌐 Web App</a>
     </div>
     <p style="color: #333; line-height: 1.5; margin-top: 12px; font-size: 0.95em;">A comprehensive analysis of metabolomics research trends using large language models to map the evolution and future directions of the field.</p>
   </div>
@@ -98,8 +100,8 @@ title: "Olatomiwa O. Bifarin"
     <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Olatomiwa O. Bifarin, and Facundo M. Fernández</p>
     <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Journal of the American Society for Mass Spectrometry, 2024</p>
     <div style="margin: 10px 0;">
-      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">Paper</a>
-      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">Preprint</a>
+      <a href="https://pubs.acs.org/doi/10.1021/jasms.3c00403" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">📄 Paper</a>
+      <a href="https://www.biorxiv.org/content/10.1101/2023.10.26.564244v1.abstract" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">📝 Preprint</a>
     </div>
     <p style="color: #333; line-height: 1.5; margin-top: 12px; font-size: 0.95em;">Development of automated machine learning pipelines with explainable AI for enhancing cancer biomarker discovery in metabolomics datasets.</p>
   </div>
@@ -118,13 +120,17 @@ title: "Olatomiwa O. Bifarin"
     <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Samyukta Sah‡, Olatomiwa O Bifarin‡, Samuel G Moore, David A. Gaul, Hyewon Chung, Hanbyoul Cho, Chi-Heum Cho, Jae-Hoon Kim, Jaeyeon Kim, Facundo O Fernandez</p>
     <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Cancer Epidemiology, Biomarkers & Prevention, 2024</p>
     <div style="margin: 10px 0;">
-      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">Paper</a>
-      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">Preprint</a>
+      <a href="https://aacrjournals.org/cebp/article/33/5/681/743231/Serum-Lipidome-Profiling-Reveals-a-Distinct" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">📄 Paper</a>
+      <a href="https://www.biorxiv.org/content/10.1101/2023.10.05.560751v1" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">📝 Preprint</a>
     </div>
     <p style="color: #333; line-height: 1.5; margin-top: 12px; font-size: 0.95em;">Identification of serum lipid biomarkers for ovarian cancer detection using advanced metabolomics and machine learning approaches.</p>
   </div>
 </div>
 {{< /rawhtml >}}
 
-**[View all publications →](/publications/)**
+{{< rawhtml >}}
+<div style="margin-bottom: 20px;">
+<strong><a href="/publications/" style="color: #0066cc; text-decoration: none;">View all publications →</a></strong>
+</div>
+{{< /rawhtml >}}
 

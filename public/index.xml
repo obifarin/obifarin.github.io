@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Olatomiwa O. Bifarin</title>
+    <title>Olatomiwa O. Bifarin on Olatomiwa Bifarin</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Olatomiwa O. Bifarin</description>
+    <description>Recent content in Olatomiwa O. Bifarin on Olatomiwa Bifarin</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Curriculum Vitae</title>
-      <link>http://localhost:1313/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Last updated:&lt;/strong&gt; August 2025&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;link-to-cv-pdf&#34;&gt;Download PDF&lt;/a&gt; | &lt;a href=&#34;https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID&#34;&gt;Google Scholar&lt;/a&gt; | &lt;a href=&#34;https://orcid.org/your-orcid&#34;&gt;ORCID&lt;/a&gt; | &lt;a href=&#34;https://linkedin.com/in/your-profile&#34;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&#34;https://github.com/your-username&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The University of Georgia (UGA)&lt;/strong&gt; | Athens, Georgia, U.S.A&lt;br&gt;
-&lt;em&gt;Doctor of Philosophy in Biochemistry and Molecular Biology&lt;/em&gt; | August 2021&lt;br&gt;
-Advisor: Arthur S. Edison PhD | GPA 3.88/4.0&lt;br&gt;
-Thesis: &lt;em&gt;Metabolic Phenotyping Meets Machine Learning: Detecting Renal Cell Carcinoma in Urine&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Catholic University of America (CUA)&lt;/strong&gt; | Washington D.C., U.S.A&lt;br&gt;
-&lt;em&gt;Master of Science in Biotechnology&lt;/em&gt; | May 2015&lt;br&gt;
-Advisor: John S. Choy PhD | GPA 3.95/4.0&lt;br&gt;
-Research Project: &lt;em&gt;Investigating the integration of metabolic signals with DNA damage response (DDR) in Saccharomyces cerevisiae&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>News</title>
       <link>http://localhost:1313/news/</link>
@@ -40,8 +22,7 @@ Research Project: &lt;em&gt;Investigating the integration of metabolic signals w
       <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/</guid>
-      <description>&lt;p&gt;See &lt;a href=&#34;https://scholar.google.com/citations?user=rx9OI0MAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;{target=&amp;quot;_blank&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;} for an up-to-date list of publications.&lt;/p&gt;
-&lt;p&gt;‡ Joint first authors&lt;/p&gt;
+      <description>&lt;p&gt;‡ Joint first authors&lt;/p&gt;
 &lt;hr&gt;
 
 &lt;div style=&#34;display: flex; gap: 30px; margin: 40px 0; align-items: flex-start;&#34;&gt;
@@ -51,7 +32,13 @@ Research Project: &lt;em&gt;Investigating the integration of metabolic signals w
   &lt;div style=&#34;flex: 1;&#34;&gt;
     &lt;h3 style=&#34;margin-top: 0; color: #333; font-size: 1.3em;&#34;&gt;A Large Language Model-Powered Map of Metabolomics Research&lt;/h3&gt;
     &lt;p style=&#34;color: #666; margin: 8px 0; font-style: italic;&#34;&gt;Olatomiwa O. Bifarin, Varun S. Yelluru, Aditya Simhadri, Facundo M. Fernández&lt;/p&gt;
-    &lt;p style=&#34;color: #666; margin: 8px 0; font-style: italic;&#34;&gt;Analytical Chemistry, 2025&lt;/p&gt;</description>
+    &lt;p style=&#34;color: #666; margin: 8px 0; font-style: italic;&#34;&gt;Analytical Chemistry, 2025&lt;/p&gt;
+    &lt;div style=&#34;margin: 12px 0;&#34;&gt;
+      &lt;a href=&#34;https://pubs.acs.org/doi/10.1021/acs.analchem.5c01672&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;color: #0066cc; text-decoration: none; margin-right: 15px;&#34;&gt;📄 Paper&lt;/a&gt;
+      &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2025.03.18.643696v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;color: #0066cc; text-decoration: none; margin-right: 15px;&#34;&gt;📝 Preprint&lt;/a&gt;
+      &lt;a href=&#34;https://metascape.streamlit.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;color: #0066cc; text-decoration: none;&#34;&gt;🌐 Web App&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&#34;color: #333; line-height: 1.6; margin-top: 15px;&#34;&gt;A comprehensive analysis of metabolomics research trends using large language models to map the evolution and future directions of the field.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

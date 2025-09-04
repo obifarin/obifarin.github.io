@@ -1,7 +1,8 @@
-/* Force override all PaperMod theme variables and styles */
+/* Theme-aware override for PaperMod theme variables and styles */
 
-/* Override CSS variables at the highest level */
-html {
+/* Light mode variables (default and when not dark) */
+:root,
+body:not(.dark) {
     --bg: #faf9f6 !important;
     --theme: #faf9f6 !important;
     --entry: #faf9f6 !important;
@@ -14,12 +15,26 @@ html {
     --border: #e1e1e1 !important;
 }
 
+/* Dark mode variables (when body has dark class) */
+body.dark {
+    --bg: #1a1a1a !important;
+    --theme: #1a1a1a !important;
+    --entry: #1a1a1a !important;
+    --primary: #ffffff !important;
+    --secondary: #cccccc !important;
+    --tertiary: #2a2a2a !important;
+    --content: #ffffff !important;
+    --hljs-bg: #1a1a1a !important;
+    --code-bg: #2a2a2a !important;
+    --border: #444444 !important;
+}
+
 /* Universal font family application */
 * {
     font-family: 'Figtree', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
 }
 
-/* Universal background color application */
+/* Theme-aware background color application */
 html,
 body,
 #root,
@@ -33,21 +48,14 @@ body,
 .archive,
 .terms,
 .search {
-    background-color: #faf9f6 !important;
-    background: #faf9f6 !important;
+    background-color: var(--bg) !important;
+    background: var(--bg) !important;
 }
 
-/* Ensure all page layouts use our background */
+/* Ensure all page layouts use theme background */
 body {
     min-height: 100vh;
-    background-color: #faf9f6 !important;
-}
-
-/* Override any theme-specific selectors */
-.theme-toggle,
-.dark,
-.light {
-    background-color: #faf9f6 !important;
+    background-color: var(--bg) !important;
 }
 
 /* Navigation elements */
@@ -57,7 +65,7 @@ body {
 .breadcrumbs,
 .menu,
 .logo {
-    background-color: #faf9f6 !important;
+    background-color: var(--bg) !important;
 }
 
 /* Content areas */
@@ -66,32 +74,49 @@ body {
 .page-content,
 .single-content,
 .list-content {
-    background-color: #faf9f6 !important;
+    background-color: var(--bg) !important;
 }
 
 /* Footer */
 .footer {
-    background-color: #faf9f6 !important;
+    background-color: var(--bg) !important;
 }
 
-/* Ensure proper text color contrast */
+/* Theme-aware text color contrast */
 body,
 .main,
 .content,
 .post,
 .page,
 h1, h2, h3, h4, h5, h6,
-p, span, div, a {
-    color: #333 !important;
+p, span, div {
+    color: var(--primary) !important;
 }
 
-/* Link styling */
+/* Theme-aware link styling */
 a {
-    color: #0066cc;
+    color: var(--secondary);
     text-decoration: none;
 }
 
 a:hover {
-    color: #004499;
+    color: var(--primary);
     text-decoration: underline;
+}
+
+/* Special link colors for better visibility */
+body:not(.dark) a {
+    color: #0066cc;
+}
+
+body:not(.dark) a:hover {
+    color: #004499;
+}
+
+body.dark a {
+    color: #66b3ff;
+}
+
+body.dark a:hover {
+    color: #ffffff;
 }
