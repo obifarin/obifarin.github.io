@@ -1,4 +1,4 @@
-baseURL = 'https://obifarin.github.io//'
+baseURL = 'https://obifarin.github.io/'
 languageCode = 'en-us'
 title = 'Olatomiwa Bifarin'
 theme = 'PaperMod'
