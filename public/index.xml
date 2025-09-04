@@ -40,16 +40,18 @@ Research Project: &lt;em&gt;Investigating the integration of metabolic signals w
       <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/</guid>
-      <description>&lt;p&gt;See &lt;a href=&#34;https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID&#34;&gt;Google Scholar&lt;/a&gt; for an up-to-date list of publications.&lt;/p&gt;
+      <description>&lt;p&gt;See &lt;a href=&#34;https://scholar.google.com/citations?user=rx9OI0MAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;{target=&amp;quot;_blank&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;} for an up-to-date list of publications.&lt;/p&gt;
 &lt;p&gt;‡ Joint first authors&lt;/p&gt;
-&lt;h2 id=&#34;published&#34;&gt;Published&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;A Large Language Model-Powered Map of Metabolomics Research&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Olatomiwa O. Bifarin, Varun S. Yelluru, Aditya Simhadri, Facundo M. Fernández&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Analytical Chemistry&lt;/em&gt;, 2025. DOI: 10.1021/acs.analchem.5c01672&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;link&#34;&gt;Paper&lt;/a&gt; | &lt;a href=&#34;link&#34;&gt;Preprint&lt;/a&gt; | &lt;a href=&#34;link&#34;&gt;Web App&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A comprehensive analysis of metabolomics research trends using large language models to map the evolution and future directions of the field.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Automated machine learning and explainable AI (AutoML-XAI) for metabolomics: improving cancer diagnostics&lt;/strong&gt;&lt;/p&gt;</description>
+
+&lt;div style=&#34;display: flex; gap: 30px; margin: 40px 0; align-items: flex-start;&#34;&gt;
+  &lt;div style=&#34;flex-shrink: 0; width: 200px;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/metamap.png&#34; alt=&#34;Figure abstract&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+    &lt;h3 style=&#34;margin-top: 0; color: #333; font-size: 1.3em;&#34;&gt;A Large Language Model-Powered Map of Metabolomics Research&lt;/h3&gt;
+    &lt;p style=&#34;color: #666; margin: 8px 0; font-style: italic;&#34;&gt;Olatomiwa O. Bifarin, Varun S. Yelluru, Aditya Simhadri, Facundo M. Fernández&lt;/p&gt;
+    &lt;p style=&#34;color: #666; margin: 8px 0; font-style: italic;&#34;&gt;Analytical Chemistry, 2025&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

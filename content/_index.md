@@ -67,76 +67,64 @@ title: "Olatomiwa O. Bifarin"
 
 ## Selected Publications
 
-See [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID) for an up-to-date list of publications.
-
-**A Large Language Model-Powered Map of Metabolomics Research**
-
-*Olatomiwa O. Bifarin, Varun S. Yelluru, Aditya Simhadri, Facundo M. Fernández*
-
-*Analytical Chemistry*, 2025
-
-[Paper](link) | [Preprint](link) | [Web App](link)
-
-A comprehensive analysis of metabolomics research trends using large language models to map the evolution and future directions of the field.
-
----
-
-**Automated machine learning and explainable AI (AutoML-XAI) for metabolomics: improving cancer diagnostics**
-
-*Olatomiwa O. Bifarin, and Facundo M. Fernández*
-
-*Journal of the American Society for Mass Spectrometry*, 2024
-
-[Paper](link) | [Preprint](link)
-
-Development of automated machine learning pipelines with explainable AI for enhancing cancer biomarker discovery in metabolomics datasets.
+{{< rawhtml >}}
+<div style="display: flex; gap: 30px; margin: 30px 0; align-items: flex-start;">
+  <div style="flex-shrink: 0; width: 150px;">
+    <img src="/images/metamap.png" alt="Figure abstract" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; color: #333; font-size: 1.2em;">A Large Language Model-Powered Map of Metabolomics Research</h3>
+    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Olatomiwa O. Bifarin, Varun S. Yelluru, Aditya Simhadri, Facundo M. Fernández</p>
+    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Analytical Chemistry, 2025</p>
+    <div style="margin: 10px 0;">
+      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">Paper</a>
+      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">Preprint</a>
+      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">Web App</a>
+    </div>
+    <p style="color: #333; line-height: 1.5; margin-top: 12px; font-size: 0.95em;">A comprehensive analysis of metabolomics research trends using large language models to map the evolution and future directions of the field.</p>
+  </div>
+</div>
+{{< /rawhtml >}}
 
 ---
 
-**Serum Lipidome Profiling Reveals a Distinct Signature of Ovarian Cancer in Korean Women**
-
-*Samyukta Sah‡, Olatomiwa O Bifarin‡, Samuel G Moore, David A. Gaul, Hyewon Chung, Hanbyoul Cho, Chi-Heum Cho, Jae-Hoon Kim, Jaeyeon Kim, Facundo O Fernandez*
-
-*Cancer Epidemiology, Biomarkers & Prevention*, 2024
-
-[Paper](link) | [Preprint](link)
-
-Identification of serum lipid biomarkers for ovarian cancer detection using advanced metabolomics and machine learning approaches.
-
----
-
-**Machine Learning Reveals Lipidome Remodeling Dynamics in a Mouse Model of Ovarian Cancer**
-
-*Olatomiwa O Bifarin‡, Samyukta Sah‡, David A Gaul, Samuel G Moore, Ruihong Chen, Murugesan Palaniappan, Jaeyeon Kim, Martin M Matzuk, Facundo M Fernández*
-
-*Journal of Proteome Research*, 2023
-
-[Paper](link) | [Preprint](link) | [Video Abstract](link)
-
-Comprehensive analysis of lipid metabolism changes during ovarian cancer progression using machine learning and multi-platform metabolomics.
+{{< rawhtml >}}
+<div style="display: flex; gap: 30px; margin: 30px 0; align-items: flex-start;">
+  <div style="flex-shrink: 0; width: 150px;">
+    <img src="/images/automl-xai.jpg" alt="Figure abstract" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; color: #333; font-size: 1.2em;">Automated machine learning and explainable AI (AutoML-XAI) for metabolomics: improving cancer diagnostics</h3>
+    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Olatomiwa O. Bifarin, and Facundo M. Fernández</p>
+    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Journal of the American Society for Mass Spectrometry, 2024</p>
+    <div style="margin: 10px 0;">
+      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">Paper</a>
+      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">Preprint</a>
+    </div>
+    <p style="color: #333; line-height: 1.5; margin-top: 12px; font-size: 0.95em;">Development of automated machine learning pipelines with explainable AI for enhancing cancer biomarker discovery in metabolomics datasets.</p>
+  </div>
+</div>
+{{< /rawhtml >}}
 
 ---
 
-**Interpretable machine learning with tree-based shapley additive explanations: Application to metabolomics datasets for binary classification**
+{{< rawhtml >}}
+<div style="display: flex; gap: 30px; margin: 30px 0; align-items: flex-start;">
+  <div style="flex-shrink: 0; width: 150px;">
+    <img src="/images/OC-korea.png" alt="Figure abstract" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; color: #333; font-size: 1.2em;">Serum Lipidome Profiling Reveals a Distinct Signature of Ovarian Cancer in Korean Women</h3>
+    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Samyukta Sah‡, Olatomiwa O Bifarin‡, Samuel G Moore, David A. Gaul, Hyewon Chung, Hanbyoul Cho, Chi-Heum Cho, Jae-Hoon Kim, Jaeyeon Kim, Facundo O Fernandez</p>
+    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Cancer Epidemiology, Biomarkers & Prevention, 2024</p>
+    <div style="margin: 10px 0;">
+      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">Paper</a>
+      <a href="link" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">Preprint</a>
+    </div>
+    <p style="color: #333; line-height: 1.5; margin-top: 12px; font-size: 0.95em;">Identification of serum lipid biomarkers for ovarian cancer detection using advanced metabolomics and machine learning approaches.</p>
+  </div>
+</div>
+{{< /rawhtml >}}
 
-*Olatomiwa O Bifarin*
-
-*PLOS ONE*, 2023
-
-[Paper](link) | [Preprint](link) | [Video Abstract](link)
-
-Development and validation of interpretable machine learning methods for metabolomics data analysis with focus on clinical applications.
-
----
-
-**Machine Learning-enabled Renal Cell Carcinoma Status Prediction Using Multi-Platform Urine-based Metabolomics**
-
-*Olatomiwa O. Bifarin‡, David A. Gaul‡, Samyukta Sah, Rebecca S. Arnold, Kenneth Ogan, Viraj A. Master, David L. Roberts, Sharon H. Bergquist, John A. Petros, Facundo M. Fernández, Arthur S. Edison*
-
-*Journal of Proteome Research*, 2021
-
-[Paper](link) | [Web App](link)
-
-Non-invasive detection and stratification of renal cell carcinoma using urine metabolomics and machine learning approaches.
-[View all publications →](/publications/)
+**[View all publications →](/publications/)**
 

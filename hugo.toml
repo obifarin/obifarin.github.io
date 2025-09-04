@@ -40,34 +40,11 @@ showtoc = false
 tocopen = false
 
 [params.homeInfoParams]
-Title = "Olatomiwa O. Bifarin 🧬"
+Title = ""
 Content = """
-I'm a Postdoctoral Research Fellow at Georgia Tech's School of Chemistry and Biochemistry. I'm interested in AI for science, machine learning applications in metabolomics, and developing automated pipelines for cancer biomarker discovery.
 
-Until recently, I was a PhD student in Arthur Edison's group at the University of Georgia, where I focused on metabolic phenotyping and machine learning for renal cell carcinoma detection. I have a passion for bridging AI and biochemistry to accelerate scientific discovery.
-
-olatomiwa.bifarin [at] gatech [dot] edu
 """
 
-[[params.socialIcons]]
-name = "email"
-url = "mailto:olatomiwa.bifarin@gatech.edu"
-
-[[params.socialIcons]]
-name = "scholar"
-url = "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
-
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/your-username"
-
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://linkedin.com/in/your-profile"
-
-[[params.socialIcons]]
-name = "orcid"
-url = "https://orcid.org/your-orcid"
 
 [params.assets]
 # disableHLJS = true

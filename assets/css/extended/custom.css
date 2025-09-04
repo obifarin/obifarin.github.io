@@ -201,3 +201,36 @@ body::before {
     background-color: var(--bg);
     z-index: -999;
 }
+
+/* Social icons styling to match PaperMod theme */
+.social-icons {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.social-icons a {
+    color: var(--secondary);
+    text-decoration: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: var(--primary);
+    background-color: var(--tertiary);
+    transform: scale(1.1);
+}
+
+.social-icons svg {
+    width: 20px;
+    height: 20px;
+    stroke-width: 1.5;
+}
