@@ -232,15 +232,17 @@ h1, h2, h3, h4, h5, h6 {
     
     /* Navigation mobile optimization */
     .nav {
-        padding: 10px 15px;
+        padding: 8px 10px;
     }
     
     .nav ul {
         flex-direction: row;
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 4px;
         justify-content: center;
         align-items: center;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
     
     .nav li {
@@ -250,9 +252,10 @@ h1, h2, h3, h4, h5, h6 {
     
     .nav a {
         display: block;
-        padding: 8px 12px;
-        font-size: 14px;
+        padding: 6px 8px;
+        font-size: 13px;
         white-space: nowrap;
+        min-width: fit-content;
     }
     
     /* Publication cards mobile optimization */
@@ -418,6 +421,18 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+/* Medium mobile devices */
+@media (max-width: 600px) and (min-width: 481px) {
+    .nav a {
+        padding: 5px 7px;
+        font-size: 12px;
+    }
+    
+    .nav ul {
+        gap: 3px;
+    }
+}
+
 /* Large mobile devices (landscape phones) */
 @media (max-width: 480px) {
     .profile-image img {
@@ -450,12 +465,16 @@ h1, h2, h3, h4, h5, h6 {
     
     /* Navigation for very small screens */
     .nav a {
-        padding: 6px 8px;
-        font-size: 13px;
+        padding: 4px 6px;
+        font-size: 12px;
     }
     
     .nav ul {
-        gap: 4px;
+        gap: 2px;
+    }
+    
+    .nav {
+        padding: 6px 8px;
     }
 }
 
