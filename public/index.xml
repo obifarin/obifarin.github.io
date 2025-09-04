@@ -30,10 +30,10 @@ Research Project: &lt;em&gt;Investigating the integration of metabolic signals w
       <link>http://localhost:1313/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/news/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;2025-07-07&lt;/strong&gt; Completed Georgia Tech President&amp;rsquo;s Postdoctoral Research Fellowship program after four successful years of interdisciplinary research.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2025-04-07&lt;/strong&gt; Invited seminar at Catholic University of America, Department of Biology: &amp;ldquo;Machine Learning Unveils the Language of Metabolites&amp;rdquo; (Virtual Presentation).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;2025-07-31&lt;/strong&gt; Completed Georgia Tech President&amp;rsquo;s Postdoctoral Research Fellowship program.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2025-04-07&lt;/strong&gt; Invited seminar at Catholic University of America, Department of Biology: &amp;ldquo;Machine Learning Unveils the Language of Metabolites&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2025-04-01&lt;/strong&gt; Keynote presentation with Prof. Facundo Fernandez at the 2025 Annual Meeting of Southern Section of AOAC International in Atlanta, Georgia: &amp;ldquo;Machine Learning in 21st Century Analytical Science.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2025-01-22&lt;/strong&gt; Invited talk at Morehouse School of Medicine, Department of Microbiology, Biochemistry, and Immunology: &amp;ldquo;Machine Learning Unveils the Language of Metabolites.&amp;rdquo;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;2025-01-22&lt;/strong&gt; Talk at Morehouse School of Medicine, Department of Microbiology, Biochemistry, and Immunology: &amp;ldquo;Machine Learning Unveils the Language of Metabolites.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
@@ -50,19 +50,6 @@ Research Project: &lt;em&gt;Investigating the integration of metabolic signals w
 &lt;p&gt;A comprehensive analysis of metabolomics research trends using large language models to map the evolution and future directions of the field.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Automated machine learning and explainable AI (AutoML-XAI) for metabolomics: improving cancer diagnostics&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Talks &amp; Presentations</title>
-      <link>http://localhost:1313/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/</guid>
-      <description>&lt;h2 id=&#34;invited-seminars--guest-lectures&#34;&gt;Invited Seminars &amp;amp; Guest Lectures&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;2025-04-07&lt;/strong&gt; Catholic University of America, Department of Biology / Washington DC, United States (Virtual Presentation)&lt;br&gt;
-&lt;em&gt;Machine Learning Unveils the Language of Metabolites&lt;/em&gt; &lt;a href=&#34;link&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2025-04-01&lt;/strong&gt; 2025 Annual Meeting of Southern Section of AOAC International / Atlanta, Georgia, United States&lt;br&gt;
-&lt;em&gt;Machine Learning in 21st Century Analytical Science&lt;/em&gt; (Keynote Presentation with Prof. Facundo Fernandez) &lt;a href=&#34;link&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2025-01-22&lt;/strong&gt; Morehouse School of Medicine, Department of Microbiology, Biochemistry, and Immunology / Atlanta, Georgia, United States&lt;br&gt;
-&lt;em&gt;Machine Learning Unveils the Language of Metabolites&lt;/em&gt; &lt;a href=&#34;link&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

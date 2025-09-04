@@ -124,22 +124,16 @@ url = "/publications/"
 weight = 30
 
 [[menu.main]]
-identifier = "talks"
-name = "talks"
-url = "/talks/"
-weight = 40
-
-[[menu.main]]
 identifier = "cv"
 name = "cv"
 url = "/cv/"
-weight = 50
+weight = 40
 
 [[menu.main]]
 identifier = "scholar"
 name = "scholar"
-url = "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
-weight = 60
+url = "https://scholar.google.com/citations?user=rx9OI0MAAAAJ&hl=en"
+weight = 50
 
 [markup]
 [markup.goldmark]
