@@ -1,4 +1,4 @@
-baseURL = 'https://olatomiwa-bifarin.netlify.app/'
+baseURL = 'https://obifarin.github.io//'
 languageCode = 'en-us'
 title = 'Olatomiwa Bifarin'
 theme = 'PaperMod'
@@ -107,10 +107,10 @@ url = "https://drive.google.com/file/d/19VbbT_tNRkKyz4sgNSMkAorbViDQ7A5m/view?us
 weight = 40
 
 [[menu.main]]
-identifier = "scholar"
-name = "scholar"
-url = "https://scholar.google.com/citations?user=rx9OI0MAAAAJ&hl=en"
-weight = 50
+  identifier = "ai-blog"
+  name = "AI blog"
+  url = "https://theepsilon.substack.com/"
+  weight = 50
 
 [markup]
 [markup.goldmark]
