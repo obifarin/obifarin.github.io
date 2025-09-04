@@ -201,7 +201,64 @@ body::before {
     z-index: -999;
 }
 
-/* Social icons styling to match PaperMod theme */
+/* Social icons styling for homepage */
+.social-icons-container {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.social-icon-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.social-icon-link:hover {
+    transform: scale(1.1);
+    color: var(--primary) !important;
+}
+
+.social-icon-link svg {
+    width: 26px;
+    height: 26px;
+    stroke-width: 1.5;
+}
+
+/* Light mode social icons */
+body:not(.dark) .social-icon-link {
+    color: #666 !important;
+}
+
+body:not(.dark) .social-icon-link:hover {
+    color: #333 !important;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* Dark mode social icons with white outline */
+body.dark .social-icon-link {
+    color: #cccccc !important;
+}
+
+body.dark .social-icon-link svg {
+    filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.6));
+}
+
+body.dark .social-icon-link:hover {
+    color: #ffffff !important;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+body.dark .social-icon-link:hover svg {
+    filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.8));
+}
+
+/* Legacy social icons styling to match PaperMod theme */
 .social-icons {
     display: flex;
     gap: 12px;
