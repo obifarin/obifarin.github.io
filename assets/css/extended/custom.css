@@ -236,18 +236,23 @@ h1, h2, h3, h4, h5, h6 {
     }
     
     .nav ul {
-        flex-direction: column;
+        flex-direction: row;
+        flex-wrap: wrap;
         gap: 8px;
+        justify-content: center;
+        align-items: center;
     }
     
     .nav li {
         text-align: center;
+        flex-shrink: 0;
     }
     
     .nav a {
         display: block;
         padding: 8px 12px;
-        font-size: 16px;
+        font-size: 14px;
+        white-space: nowrap;
     }
     
     /* Publication cards mobile optimization */
@@ -442,6 +447,16 @@ h1, h2, h3, h4, h5, h6 {
     .content {
         padding: 0 10px;
     }
+    
+    /* Navigation for very small screens */
+    .nav a {
+        padding: 6px 8px;
+        font-size: 13px;
+    }
+    
+    .nav ul {
+        gap: 4px;
+    }
 }
 
 /* Additional background color enforcement for all page types */
@@ -469,6 +484,33 @@ section,
 .logo {
     background-color: var(--bg) !important;
     font-family: var(--font-family) !important;
+}
+
+/* Ensure navigation is horizontal by default */
+.nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    margin: 0;
+}
+
+.nav a {
+    text-decoration: none;
+    color: var(--primary);
+    transition: color 0.3s ease;
+}
+
+.nav a:hover {
+    color: var(--secondary);
 }
 
 /* Footer styling */
