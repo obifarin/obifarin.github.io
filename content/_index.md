@@ -2,7 +2,7 @@
 title: "Olatomiwa O. Bifarin"
 ---
 
-# Olatomiwa Bifarin
+# Olatomiwa O. Bifarin
 
 {{< rawhtml >}}
 <div class="profile-container">
