@@ -64,20 +64,20 @@ title: "Olatomiwa O. Bifarin"
 ## Publications
 
 {{< rawhtml >}}
-<div style="display: flex; gap: 30px; margin: 30px 0; align-items: flex-start;">
-  <div style="flex-shrink: 0; width: 150px;">
-    <img src="/images/metamap.png" alt="Figure abstract" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+<div class="publication-card">
+  <div class="publication-image">
+    <img src="/images/metamap.png" alt="Figure abstract" />
   </div>
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0; color: #333; font-size: 1.2em;">A Large Language Model-Powered Map of Metabolomics Research</h3>
-    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Olatomiwa O. Bifarin, Varun S. Yelluru, Aditya Simhadri, Facundo M. Fernández</p>
-    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Analytical Chemistry, 2025</p>
-    <div style="margin: 10px 0;">
-      <a href="https://pubs.acs.org/doi/10.1021/acs.analchem.5c01672" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">📄 Paper</a>
-      <a href="https://www.biorxiv.org/content/10.1101/2025.03.18.643696v1" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">📝 Preprint</a>
-      <a href="https://metascape.streamlit.app/" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">🌐 Web App</a>
+  <div class="publication-content">
+    <h3>A Large Language Model-Powered Map of Metabolomics Research</h3>
+    <p class="authors">Olatomiwa O. Bifarin, Varun S. Yelluru, Aditya Simhadri, Facundo M. Fernández</p>
+    <p class="journal">Analytical Chemistry, 2025</p>
+    <div class="publication-links">
+      <a href="https://pubs.acs.org/doi/10.1021/acs.analchem.5c01672" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://www.biorxiv.org/content/10.1101/2025.03.18.643696v1" target="_blank" rel="noopener">📝 Preprint</a>
+      <a href="https://metascape.streamlit.app/" target="_blank" rel="noopener">🌐 Web App</a>
     </div>
-    <p style="color: #333; line-height: 1.5; margin-top: 12px; font-size: 0.95em;">A comprehensive analysis of metabolomics research trends using large language models to map the evolution and future directions of the field.</p>
+    <p class="abstract">A comprehensive analysis of metabolomics research trends using large language models to map the evolution and future directions of the field.</p>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -85,19 +85,19 @@ title: "Olatomiwa O. Bifarin"
 ---
 
 {{< rawhtml >}}
-<div style="display: flex; gap: 30px; margin: 30px 0; align-items: flex-start;">
-  <div style="flex-shrink: 0; width: 150px;">
-    <img src="/images/automl-xai.jpg" alt="Figure abstract" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+<div class="publication-card">
+  <div class="publication-image">
+    <img src="/images/automl-xai.jpg" alt="Figure abstract" />
   </div>
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0; color: #333; font-size: 1.2em;">Automated machine learning and explainable AI (AutoML-XAI) for metabolomics: improving cancer diagnostics</h3>
-    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Olatomiwa O. Bifarin, and Facundo M. Fernández</p>
-    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Journal of the American Society for Mass Spectrometry, 2024</p>
-    <div style="margin: 10px 0;">
-      <a href="https://pubs.acs.org/doi/10.1021/jasms.3c00403" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">📄 Paper</a>
-      <a href="https://www.biorxiv.org/content/10.1101/2023.10.26.564244v1.abstract" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">📝 Preprint</a>
+  <div class="publication-content">
+    <h3>Automated machine learning and explainable AI (AutoML-XAI) for metabolomics: improving cancer diagnostics</h3>
+    <p class="authors">Olatomiwa O. Bifarin, and Facundo M. Fernández</p>
+    <p class="journal">Journal of the American Society for Mass Spectrometry, 2024</p>
+    <div class="publication-links">
+      <a href="https://pubs.acs.org/doi/10.1021/jasms.3c00403" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://www.biorxiv.org/content/10.1101/2023.10.26.564244v1.abstract" target="_blank" rel="noopener">📝 Preprint</a>
     </div>
-    <p style="color: #333; line-height: 1.5; margin-top: 12px; font-size: 0.95em;">Development of automated machine learning pipelines with explainable AI for enhancing cancer biomarker discovery in metabolomics datasets.</p>
+    <p class="abstract">Development of automated machine learning pipelines with explainable AI for enhancing cancer biomarker discovery in metabolomics datasets.</p>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -105,19 +105,19 @@ title: "Olatomiwa O. Bifarin"
 ---
 
 {{< rawhtml >}}
-<div style="display: flex; gap: 30px; margin: 30px 0; align-items: flex-start;">
-  <div style="flex-shrink: 0; width: 150px;">
-    <img src="/images/OC-korea.png" alt="Figure abstract" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+<div class="publication-card">
+  <div class="publication-image">
+    <img src="/images/OC-korea.png" alt="Figure abstract" />
   </div>
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0; color: #333; font-size: 1.2em;">Serum Lipidome Profiling Reveals a Distinct Signature of Ovarian Cancer in Korean Women</h3>
-    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Samyukta Sah‡, Olatomiwa O Bifarin‡, Samuel G Moore, David A. Gaul, Hyewon Chung, Hanbyoul Cho, Chi-Heum Cho, Jae-Hoon Kim, Jaeyeon Kim, Facundo O Fernandez</p>
-    <p style="color: #666; margin: 6px 0; font-style: italic; font-size: 0.95em;">Cancer Epidemiology, Biomarkers & Prevention, 2024</p>
-    <div style="margin: 10px 0;">
-      <a href="https://aacrjournals.org/cebp/article/33/5/681/743231/Serum-Lipidome-Profiling-Reveals-a-Distinct" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; margin-right: 12px; font-size: 0.9em;">📄 Paper</a>
-      <a href="https://www.biorxiv.org/content/10.1101/2023.10.05.560751v1" target="_blank" rel="noopener" style="color: #0066cc; text-decoration: none; font-size: 0.9em;">📝 Preprint</a>
+  <div class="publication-content">
+    <h3>Serum Lipidome Profiling Reveals a Distinct Signature of Ovarian Cancer in Korean Women</h3>
+    <p class="authors">Samyukta Sah‡, Olatomiwa O Bifarin‡, Samuel G Moore, David A. Gaul, Hyewon Chung, Hanbyoul Cho, Chi-Heum Cho, Jae-Hoon Kim, Jaeyeon Kim, Facundo O Fernandez</p>
+    <p class="journal">Cancer Epidemiology, Biomarkers & Prevention, 2024</p>
+    <div class="publication-links">
+      <a href="https://aacrjournals.org/cebp/article/33/5/681/743231/Serum-Lipidome-Profiling-Reveals-a-Distinct" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://www.biorxiv.org/content/10.1101/2023.10.05.560751v1" target="_blank" rel="noopener">📝 Preprint</a>
     </div>
-    <p style="color: #333; line-height: 1.5; margin-top: 12px; font-size: 0.95em;">Identification of serum lipid biomarkers for ovarian cancer detection using advanced metabolomics and machine learning approaches.</p>
+    <p class="abstract">Identification of serum lipid biomarkers for ovarian cancer detection using advanced metabolomics and machine learning approaches.</p>
   </div>
 </div>
 {{< /rawhtml >}}
