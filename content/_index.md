@@ -11,7 +11,8 @@ title: "Olatomiwa O. Bifarin"
   </div>
   
   <div class="profile-text">
-    <p>I hold a <a href="https://openscholar.uga.edu/record/4684?ln=en&v=pdf" target="_blank">PhD in Biochemistry and Molecular Biology</a> from the University of Georgia, and I conducted postdoctoral research at Georgia Tech. My research interest spans computational metabolomics, cancer metabolism, applied machine learning (ML), natural language processing (NLP), & AI for Science.</p>
+        <p>My research interest spans computational metabolomics, cancer metabolism, applied machine learning, natural language processing, & AI for Science. I hold a PhD in Biochemistry and Molecular Biology from the University of Georgia advised by <a href="https://ccrc.uga.edu/team/art-edison/" target="_blank" rel="noopener">Art Edison</a>, and I conducted postdoctoral research at Georgia Tech in the <a href="https://research.gatech.edu/people/facundo-fernandez" target="_blank" rel="noopener">Fernandez Lab</a>. </p>
+
     
     <p>Currently, I am on a self-imposed career break to focus on some self-directed projects on AI engineering. I am also a research affiliate at Georgia Tech.</p>
     
@@ -123,8 +124,7 @@ title: "Olatomiwa O. Bifarin"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 10px;">
 <strong><a href="/publications/" style="color: #0066cc; text-decoration: none;">View all publications →</a></strong>
 </div>
 {{< /rawhtml >}}
-

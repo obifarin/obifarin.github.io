@@ -17,7 +17,7 @@ env = "production"
 title = "Olatomiwa O. Bifarin"
 description = "AI for Science | Machine Learning & Metabolomics | Postdoctoral Research Fellow at Georgia Tech"
 keywords = ["Olatomiwa Bifarin", "Machine Learning", "AI", "Metabolomics", "Biochemistry", "Research", "Georgia Tech"]
-author = "Olatomiwa O. Bifarin"
+author = " "
 # images = ["<link or path of image for opengraph, twitter-cards>"]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -68,10 +68,27 @@ hidden = true
 hiddenInList = true
 hiddenInSingle = true
 
-[params.editPost]
-URL = "https://github.com/<path_to_repo>/content"
-Text = "Suggest Changes"
-appendFilePath = true
+#[params.editPost]
+#URL = "https://github.com/<path_to_repo>/content"
+#Text = "Suggest Changes"
+#appendFilePath = true
+
+# Social media icons (commented out - using custom implementation)
+# [[params.socialIcons]]
+# name = "github"
+# url = "https://github.com/obifarin"
+# 
+# [[params.socialIcons]]
+# name = "linkedin"
+# url = "https://www.linkedin.com/in/obifarin/"
+# 
+# [[params.socialIcons]]
+# name = "scholar"
+# url = "https://scholar.google.com/citations?user=rx9OI0MAAAAJ&hl=en"
+# 
+# [[params.socialIcons]]
+# name = "twitter"
+# url = "https://twitter.com/obifarin"
 
 [params.fuseOpts]
 isCaseSensitive = false

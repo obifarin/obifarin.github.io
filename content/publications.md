@@ -5,8 +5,6 @@ layout: single
 
 ‡ Joint first authors
 
----
-
 {{< rawhtml >}}
 <div class="publication-card">
   <div class="publication-image">
