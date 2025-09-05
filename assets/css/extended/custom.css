@@ -232,13 +232,13 @@ h1, h2, h3, h4, h5, h6 {
     
     /* Navigation mobile optimization 8, 10 */
     .nav {
-        padding: 4px 5px;
+        padding: 6px 8px;
     }
     
     .nav ul {
         flex-direction: row;
         flex-wrap: nowrap;
-        gap: 4px;
+        gap: 2px;
         justify-content: center;
         align-items: center;
         overflow-x: auto;
@@ -252,8 +252,8 @@ h1, h2, h3, h4, h5, h6 {
     
     .nav a {
         display: block;
-        padding: 6px 8px;
-        font-size: 13px;
+        padding: 4px 6px;
+        font-size: 12px;
         white-space: nowrap;
         min-width: fit-content;
     }
@@ -421,10 +421,10 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-/* Medium mobile devices */
+/* Medium mobile devices  5, 7*/
 @media (max-width: 600px) and (min-width: 481px) {
     .nav a {
-        padding: 5px 7px;
+        padding: 3px 5px;
         font-size: 12px;
     }
     
@@ -465,12 +465,12 @@ h1, h2, h3, h4, h5, h6 {
     
     /* Navigation for very small screens */
     .nav a {
-        padding: 4px 6px;
-        font-size: 12px;
+        padding: 3px 4px;
+        font-size: 11px;
     }
     
     .nav ul {
-        gap: 2px;
+        gap: 1px;
     }
     
     .nav {
