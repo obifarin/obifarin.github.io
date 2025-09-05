@@ -133,6 +133,30 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Mobile-first responsive design */
 @media (max-width: 768px) {
+    /* Header alignment fix for mobile */
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 15px;
+    }
+    
+    .header .logo {
+        flex: 1;
+        text-align: left;
+    }
+    
+    .header .nav {
+        flex: 1;
+        text-align: right;
+    }
+    
+    /* Theme toggle alignment */
+    .theme-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
     /* Profile section mobile optimization */
     .profile-container {
         flex-direction: column;
@@ -232,13 +256,13 @@ h1, h2, h3, h4, h5, h6 {
     
     /* Navigation mobile optimization 8, 10 */
     .nav {
-        padding: 6px 8px;
+        padding: 4px 6px;
     }
     
     .nav ul {
         flex-direction: row;
         flex-wrap: nowrap;
-        gap: 2px;
+        gap: 1px;
         justify-content: center;
         align-items: center;
         overflow-x: auto;
@@ -252,10 +276,27 @@ h1, h2, h3, h4, h5, h6 {
     
     .nav a {
         display: block;
-        padding: 4px 6px;
-        font-size: 12px;
+        padding: 2px 3px;
+        font-size: 10px;
         white-space: nowrap;
         min-width: fit-content;
+        line-height: 1.2;
+    }
+    
+    /* Extra compact for iPhone screens */
+    @media (max-width: 414px) {
+        .nav a {
+            padding: 1px 2px;
+            font-size: 9px;
+        }
+        
+        .nav ul {
+            gap: 0px;
+        }
+        
+        .nav {
+            padding: 2px 4px;
+        }
     }
     
     /* Publication cards mobile optimization */
@@ -530,6 +571,29 @@ section,
 
 .nav a:hover {
     color: var(--secondary);
+}
+
+/* Header layout fixes */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.header .logo {
+    flex-shrink: 0;
+}
+
+.header .nav {
+    flex-shrink: 0;
+}
+
+/* Theme toggle positioning */
+.theme-toggle {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
 }
 
 /* Footer styling */
