@@ -1,6 +1,6 @@
 baseURL = 'https://obifarin.github.io/'
 languageCode = 'en-us'
-title = 'Olatomiwa Bifarin'
+title = 'Academic Webpage'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
