@@ -120,7 +120,7 @@ weight = 30
 [[menu.main]]
 identifier = "cv"
 name = "cv"
-url = "https://drive.google.com/file/d/1hAGZgorcPxY9KGjwr4CccAF1olYaFAIE/view?usp=sharing"
+url = "https://drive.google.com/file/d/1P-ZGsCA8X2xFCSl-l2aSRhf8f9dvhHWz/view?usp=drive_link"
 weight = 40
 
 [[menu.main]]
