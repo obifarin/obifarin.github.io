@@ -14,7 +14,7 @@ title: "Olatomiwa O. Bifarin"
         <p>My research interest spans computational metabolomics, cancer metabolism, applied machine learning, natural language processing, & AI for Science. I hold a PhD in Biochemistry and Molecular Biology from the University of Georgia advised by <a href="https://ccrc.uga.edu/team/art-edison/" target="_blank" rel="noopener">Art Edison</a>, and I conducted postdoctoral research at Georgia Tech in the <a href="https://research.gatech.edu/people/facundo-fernandez" target="_blank" rel="noopener">Fernandez Lab</a>. </p>
 
     
-    <p>Currently, I am on a self-imposed career break to focus on some self-directed projects on AI engineering. I am also a research affiliate at Georgia Tech.</p>
+    <p>Currently, I am on a self-imposed career break to build expertise in AI-assisted SWE and to focus on self-directed AI engineering projects. I am also a research affiliate at Georgia Tech.</p>
     
     <p><code>obifarin [at] yahoo [dot] com</code></p>
   </div>
