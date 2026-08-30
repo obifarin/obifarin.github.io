@@ -3,6 +3,8 @@ title: "News"
 layout: single
 ---
 
+**Summer 2026** Joined Georgia Tech CREATE-X to build <a href="https://titerly.com" target="_blank" rel="noopener">Titerly</a>, an AI workspace for reusable, inspectable, and auditable scientific workflows.
+
 **2025-07-31** Completed Georgia Tech President's Postdoctoral Research Fellowship program.
 
 **2025-04-07** Invited seminar at Catholic University of America, Department of Biology: "Machine Learning Unveils the Language of Metabolites".
