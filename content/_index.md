@@ -14,7 +14,7 @@ title: "Olatomiwa O. Bifarin"
         <p>My research interest spans computational metabolomics, cancer metabolism, applied machine learning, natural language processing, & AI for Science. I hold a PhD in Biochemistry and Molecular Biology from the University of Georgia advised by <a href="https://ccrc.uga.edu/team/art-edison/" target="_blank" rel="noopener">Art Edison</a>, and I conducted postdoctoral research at Georgia Tech in the <a href="https://research.gatech.edu/people/facundo-fernandez" target="_blank" rel="noopener">Fernandez Lab</a>. </p>
 
     
-    <p>Currently, I am the founder of <a href="https://titerly.com" target="_blank" rel="noopener">Titerly</a>, where I am building tools for AI-native scientific work, with a focus on reusable scientific workflows, human oversight, provenance, and institutional knowledge. I am also a Research Affiliate at Georgia Tech.</p>
+    <p>Currently, I am the founder of <a href="https://titerly.com" target="_blank" rel="noopener">Titerly</a>, where I am building tools for AI-native scientific work, with a focus on reusable scientific workflows, human oversight, provenance, and institutional knowledge.</p>
     
     <p><code>obifarin [at] yahoo [dot] com</code></p>
   </div>
@@ -48,7 +48,11 @@ title: "Olatomiwa O. Bifarin"
 
 ## News
 
-**Summer 2026** Joined Georgia Tech CREATE-X to build <a href="https://titerly.com" target="_blank" rel="noopener">Titerly</a>, an AI workspace for reusable, inspectable, and auditable scientific workflows.
+**2026-11-21** Gave an invited storytelling talk, *Science in Motion: From Urine Tasting to AI in the Lab*, at the 5th IIAS Science Institute. [Listen to the narrated talk](https://www.bifarin.me/talks/2026-11-21-science-in-motion/).
+
+**2026-09-30** Joined Cohort 18 of Atlanta Tech Village’s [It Takes a Village](https://atlantatechvillage.com/programs/it-takes-a-village) pre-accelerator. Our first Lesson Lab was October 2.
+
+**May 18–24, 2026** Joined Georgia Tech [CREATE-X](https://create-x.gatech.edu/) to build <a href="https://titerly.com" target="_blank" rel="noopener">Titerly</a>, an AI workspace for reusable, inspectable, and auditable scientific workflows.
 
 **2025-04-07** Invited seminar at Catholic University of America, Department of Biology: "Machine Learning Unveils the Language of Metabolites".
 
