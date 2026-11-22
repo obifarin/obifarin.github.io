@@ -3,7 +3,11 @@ title: "News"
 layout: single
 ---
 
-**Summer 2026** Joined Georgia Tech CREATE-X to build <a href="https://titerly.com" target="_blank" rel="noopener">Titerly</a>, an AI workspace for reusable, inspectable, and auditable scientific workflows.
+**2026-11-21** Gave an invited storytelling talk, *Science in Motion: From Urine Tasting to AI in the Lab*, at the 5th IIAS Science Institute. [Listen to the narrated talk](https://www.bifarin.me/talks/2026-11-21-science-in-motion/).
+
+**2026-09-30** Joined Cohort 18 of Atlanta Tech Village’s [It Takes a Village](https://atlantatechvillage.com/programs/it-takes-a-village) pre-accelerator. Our first Lesson Lab was October 2.
+
+**May 18–24, 2026** Joined Georgia Tech [CREATE-X](https://create-x.gatech.edu/) to build <a href="https://titerly.com" target="_blank" rel="noopener">Titerly</a>, an AI workspace for reusable, inspectable, and auditable scientific workflows.
 
 **2025-07-31** Completed Georgia Tech President's Postdoctoral Research Fellowship program.
 

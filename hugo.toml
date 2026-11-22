@@ -15,7 +15,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Olatomiwa O. Bifarin"
-description = "AI for Science | Machine Learning & Metabolomics | Postdoctoral Research Fellow at Georgia Tech"
+description = "AI for Science | Machine Learning & Metabolomics | Founder of Titerly"
 keywords = ["Olatomiwa Bifarin", "Machine Learning", "AI", "Metabolomics", "Biochemistry", "Research", "Georgia Tech"]
 author = " "
 # images = ["<link or path of image for opengraph, twitter-cards>"]
