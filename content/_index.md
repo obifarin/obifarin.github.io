@@ -48,11 +48,11 @@ title: "Olatomiwa O. Bifarin"
 
 ## News
 
-**2026-11-21** Gave an invited storytelling talk, *Science in Motion: From Urine Tasting to AI in the Lab*, at the 5th IIAS Science Institute. [Listen to the narrated talk](https://www.bifarin.me/talks/2026-11-21-science-in-motion/).
+**2026-11-21** Gave an invited talk, *Science in Motion: From Urine Tasting to AI in the Lab*, at the 5th IIAS Science Institute. <a href="https://www.bifarin.me/talks/2026-11-21-science-in-motion/" target="_blank" rel="noopener">Listen to the narrated talk</a>.
 
-**2026-09-30** Joined Cohort 18 of Atlanta Tech Village’s [It Takes a Village](https://atlantatechvillage.com/programs/it-takes-a-village) pre-accelerator. Our first Lesson Lab was October 2.
+**2026-09-30** Joined Cohort 18 of Atlanta Tech Village’s <a href="https://atlantatechvillage.com/programs/it-takes-a-village" target="_blank" rel="noopener">It Takes a Village</a> pre-accelerator.
 
-**May 18–24, 2026** Joined Georgia Tech [CREATE-X](https://create-x.gatech.edu/) to build <a href="https://titerly.com" target="_blank" rel="noopener">Titerly</a>, an AI workspace for reusable, inspectable, and auditable scientific workflows.
+**June 2026** Joined Georgia Tech <a href="https://create-x.gatech.edu/" target="_blank" rel="noopener">CREATE-X</a> to build <a href="https://titerly.com" target="_blank" rel="noopener">Titerly</a>, an AI workspace for reusable, inspectable, and auditable scientific workflows.
 
 **2025-04-07** Invited seminar at Catholic University of America, Department of Biology: "Machine Learning Unveils the Language of Metabolites".
 
